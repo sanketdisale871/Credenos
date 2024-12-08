@@ -2,7 +2,7 @@
 <div align="center">
     <!-- <img src="./controllers/logo.png" alt="GlobalEase Logo" width="150"> -->
     <img src="./public/img/logo.png" alt="GlobalEase Logo" width="150">
-  <h1 align="center"><b>citiWise: AI-Powered Companion for Smarter Financial Health and Family Wealth Management.</b></h1>
+  <h1 align="center"><b>Credenos: AI-Powered Companion for Smarter Financial Health and Family Wealth Management.</b></h1>
 
 </div>
 
@@ -11,11 +11,11 @@
 
 ## ♾️ Problem Statement
 
-Enhancing Customer Experience in Banking and Finance - Empowering Customers with AI-Driven Financial Insights.
+Develop ethical AI systems in banking, particularly for key areas like credit scoring, fraud detection, and personalized financial services, ensuring fairness and mitigating discrepancies among customers.
 
 ## ♾️ Solution
 
-Citiwise is a personalized financial advisory platform designed to help users make better financial decisions with features like a dual scoring system to monitor credit and financial health, AI-driven spending and saving goals, and personalized investment suggestions based on risk tolerance and income. It enables families to manage all accounts in one place, offering clear visualizations for better financial tracking. Additionally, Citiwise includes innovative tools like citiGPT, an AI financial assistant, a gamified self-paced learning path for financial literacy, and daily learning challenges to encourage user engagement and improve financial management skills.
+Credenos is an AI-powered finance companion designed to make managing personal and family finances easy, ethical, and inclusive. It provides personalized financial advice, tracks expenses and investments, and helps users set and achieve financial goals. With features like credGPT, users can ask questions about banking, get tailored investment suggestions, and learn about finance through gamified daily challenges and AI-generated learning paths. The platform offers clear visualizations for spending insights, family finance management, and dual scoring metrics like Credit Fitness and Financial Health scores to improve financial literacy. It’s an all-in-one app that promotes better financial habits, making it suitable for everyone, from young adults to retirees.
 
 ## ⚙️ Built With
 
@@ -43,7 +43,7 @@ The technologies and tools used are:
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/sanketdisale871/citiWise.git
+   git clone https://github.com/sanketdisale871/Credenos.git
    ```
 
 2. Install the dependencies:
@@ -62,16 +62,16 @@ The technologies and tools used are:
 ## Some Glimpses of WorkConnect
 
 - Dashboard
-  ![alt text](image.png)
+  ![alt text](Crede_Dash1.png)
 
 - citiGPT
-  ![alt text](image-1.png)
+  ![alt text](Cred_gpt1.png)
 
 - My Family
-  ![My Family](image-2.png)
+  ![My Family](Cred_family.png)
 
 - My Investments
-  ![Investments](image-3.png)
+  ![Investments](Cred_inv1.png)
 
 - My Liabilities
-  ![alt text](image-4.png)
+  ![alt text](Crede_Lia1.png)
