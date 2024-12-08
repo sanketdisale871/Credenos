@@ -71,7 +71,7 @@ The technologies and tools used are:
   ![My Family](Cred_family.png)
 
 - My Investments
-  ![Investments](Cred_inv1.png)
+  ![Investments](Cred_Inv1.png)
 
 - My Liabilities
   ![alt text](Crede_Lia1.png)
